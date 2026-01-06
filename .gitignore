@@ -5,7 +5,6 @@
 __pycache__/
 *.pyc
 
-# Ignore entire venv folder
-course_project/
+# Root-level virtual envs (none are course_project)
 venv/
 .venv/
