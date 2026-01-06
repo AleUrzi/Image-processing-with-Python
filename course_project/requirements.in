@@ -1,0 +1,4 @@
+-c requirements-dev.txt
+jupyter
+notebook
+ipykernel
