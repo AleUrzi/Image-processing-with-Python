@@ -1,0 +1,14 @@
+# macOS junk
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment internals
+bin/
+lib/
+include/
+share/
+etc/
+pyvenv.cfg
