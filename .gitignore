@@ -5,7 +5,7 @@
 __pycache__/
 *.pyc
 
-# Virtual environments
+# Ignore entire venv folder
 course_project/
 venv/
 .venv/
